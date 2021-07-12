@@ -1,0 +1,67 @@
+#-------------------------------
+# Site Settings
+title: Pi
+logo: # You can add own logo. For example '/images/logo.png'.
+author: pitri
+description: Personal blog
+
+
+#-------------------------------
+# Menu Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hi, there!
+  hero__description: Welcome to my blog. Here you'll find posts related to my past projects. Most of them would be technical but I can't promise to not post science fiction.
+
+
+#-------------------------------
+# Portfolio Settings
+
+
+#-------------------------------
+# Subscribe Settings
+
+
+
+#-------------------------------
+# Footer Settings
+social:
+- {icon: "ion ion-logo-octocat", color: "#24292e", label: Github, link: "https://github.com"}
+
+
+# Example of adding a new link to the footer section - {icon: "ion-logo-github", color: "#24292e, label: Github, link: "https://github.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: f/moqynjjj # Add your email for contact form
+  description: If you have any questions or find any errors, send me a message below! # Add a description of your form.
+
+# NOTE
+# Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: pitri # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
