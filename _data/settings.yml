@@ -39,7 +39,7 @@ hero:
 #-------------------------------
 # Footer Settings
 social:
-- {icon: "ion ion-logo-octocat", color: "#24292e", label: Github, link: "https://github.com"}
+- {icon: "ion ion-logo-octocat", color: "#24292e", label: Github, link: "https://github.com/pitripi"}
 
 
 # Example of adding a new link to the footer section - {icon: "ion-logo-github", color: "#24292e, label: Github, link: "https://github.com"}
